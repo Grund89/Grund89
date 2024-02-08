@@ -9,7 +9,7 @@ class Programmer
 	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjmaciel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pjmaciel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
-[![wakatime](https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c.svg)](https://wakatime.com/@018cff2b-53a4-45db-af92-d78ab0987e8c)
+[![wakatime](https://wakatime.com/badge/user/018d3f11-d9f1-4dce-beb2-5b8bac6cbfd1.svg)](https://wakatime.com/badge/user/018d3f11-d9f1-4dce-beb2-5b8bac6cbfd1)
 </div>
 
  
@@ -41,7 +41,7 @@ class Programmer
             	<td><a href="https://github.com/Grund89/NIKEL"><b>Plataforma NIKEL</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Grund89/NIKEL?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018cff30-fc6e-4e2f-bafc-93616d098d93.svg?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018d3f11-d9f1-4dce-beb2-5b8bac6cbfd1/project/018d5ba6-ae39-4365-9ecf-fc8c41677d50.svg?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/Grund89/NIKEL?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Grund89/NIKEL=flat-square&labelColor=343b41" /></td>
         </tr>
@@ -50,7 +50,7 @@ class Programmer
 		<td><a href="https://github.com/Grund89/shopping_cart"><b>Shopping Cart</b></a></td>
 	 	<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Grund89/shopping_cart?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018cff30-fc6e-4e2f-bafc-93616d098d93.svg?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018d3f11-d9f1-4dce-beb2-5b8bac6cbfd1/project/018d5ba6-ae39-4365-9ecf-fc8c41677d50.svg?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/Grund89/shopping_cart?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Grund89/shopping_cart=flat-square&labelColor=343b41" /></td>
         </tr>
@@ -59,7 +59,7 @@ class Programmer
             	<td><a href="https://github.com/Grund89/Estudos"><b>Estudos</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Grund89/Estudos?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018cff2b-53a4-45db-af92-d78ab0987e8c/project/018cff30-fc6e-4e2f-bafc-93616d098d93.svg?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018d3f11-d9f1-4dce-beb2-5b8bac6cbfd1/project/018d5ba6-ae39-4365-9ecf-fc8c41677d50.svg?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Issues" src="https://img.shields.io/github/issues/Grund89/shopping_cart?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Grund89/Estudos=flat-square&labelColor=343b41" /></td>
         </tr>
