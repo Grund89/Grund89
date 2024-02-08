@@ -66,7 +66,7 @@ class Programmer
     </tbody>
 </table>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgwNzd5bW54MzYydmRwdzg3eTcycGQ5ZmJheHM0cHY1dHRkdzFuaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif?raw=true" width="50%" height="355px" />
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3j2s19dLfM0QKbRdjg87XZ&ust=1707443020213000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjdr4fPmoQDFQAAAAAdAAAAABAF" width="50%" height="355px" />
 
 ### Languages
 
