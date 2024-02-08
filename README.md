@@ -8,7 +8,7 @@ class Programmer
 <div>
 	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pjmaciel&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pjmaciel&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Grund89&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)<br>
 [![wakatime](https://wakatime.com/badge/user/018d3f11-d9f1-4dce-beb2-5b8bac6cbfd1.svg)](https://wakatime.com/badge/user/018d3f11-d9f1-4dce-beb2-5b8bac6cbfd1)
 </div>
 
