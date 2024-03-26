@@ -1,4 +1,4 @@
-# Hello word, eu sou Douglas 
+# Hello world, I'm Douglas!
 
 ```ruby 
 class Programmer
