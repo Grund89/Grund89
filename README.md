@@ -56,7 +56,7 @@ class Programmer
         </tr>
         <tr>
 		<td>3</td>
-            	<td><a href="https://github.com/Grund89/Estudos"><b>Estudos</b></a></td>
+            	<td><a href="[https://github.com/Grund89/Estudos](https://github.com/Grund89/dio-lab-open-source)"><b>Dio-Lab</b></a></td>
 		<td>Developer</td>
             	<td><img alt="Stars" src="https://img.shields.io/github/stars/Grund89/Estudos?style=flat-square&labelColor=343b41" /></td>
             	<td><img alt="Wakatime" src="https://wakatime.com/badge/user/018d3f11-d9f1-4dce-beb2-5b8bac6cbfd1/project/018d5ba6-ae39-4365-9ecf-fc8c41677d50.svg?style=flat-square&labelColor=343b41" /></td>
